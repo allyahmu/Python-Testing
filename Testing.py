@@ -3,8 +3,8 @@
 
 num1 = 1.5
 
-num2 = 8.3
->>>>>>> Update Second Number
+num2 = 10.3
+
 
 # Add two numbers
 sum = float(num1) + float(num2)
