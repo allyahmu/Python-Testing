@@ -2,7 +2,11 @@
 # This is comment
 
 num1 = 1.5
+<<<<<<< HEAD
 num2 = 7.3
+=======
+num2 = 8.3
+>>>>>>> Update Second Number
 
 # Add two numbers
 sum = float(num1) + float(num2)
